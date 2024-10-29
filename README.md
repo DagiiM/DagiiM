@@ -6,8 +6,8 @@
 I am an Electrical and Electronics Engineer with a passion for integrating hardware and software solutions. My work encompasses a range of projects, from innovative communication technologies to advanced software development. 
 
 ### Skills
-- **Programming Languages**: JavaScript, Python, C++
-- **Frameworks**: Django, Micro Frontend (MFE)
+- **Programming Languages**: JavaScript, Python, C++, C, CSS3, HTML5
+- **Frameworks**: Django, Vasha Js Micro Frontend (MFE)
 - **Technologies**: OpenCV, IoT, LiFi
 - **Cloud Services**: Linode, Nextcloud
 - **Technical Writing**: Expertise in clearly communicating complex ideas
@@ -25,6 +25,7 @@ I am an Electrical and Electronics Engineer with a passion for integrating hardw
 
 ### Automation Project
 - Collaborated on a project that leveraged IoT devices and C++ for simulation and programming.
+- **Technologies** : ATMEGA2560, ATMEL Studio
 
 ### Mail System Deployment
 - Deployed mail systems for personal projects on Linode cloud servers and configured Nextcloud servers for efficient data management.
