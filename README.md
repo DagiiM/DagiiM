@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @DagiiM
-- 👀 I’m interested in Web Design using Laravel, Django, Embedded Design with Atmega Microcontroller Series, Network and Linux Administration
-- 🌱 I’m currently learning Network Development, Layer 2 and Layer 3 Switching
-- 💞️ I’m looking to collaborate on any invited Project in the above areas.
-- 📫 How to reach me? Write me an email at douglasmutethia2017@gmail.com
+---
 
-<!---
-DagiiM/DagiiM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to My GitHub Profile!
+
+## About Me
+I am an Electrical and Electronics Engineer with a passion for integrating hardware and software solutions. My work encompasses a range of projects, from innovative communication technologies to advanced software development. 
+
+### Skills
+- **Programming Languages**: JavaScript, Python, C++
+- **Frameworks**: Django, Micro Frontend (MFE)
+- **Technologies**: OpenCV, IoT, LiFi
+- **Cloud Services**: Linode, Nextcloud
+- **Technical Writing**: Expertise in clearly communicating complex ideas
+
+## Projects
+
+### LiFi Technology
+- Developed a project focused on light-based wireless communication, exploring innovative applications for data transmission.
+
+### Micro Frontend Framework
+- Created a scalable MFE framework in JavaScript, enhancing modularity in web applications.
+
+### Advanced Image Processing
+- Utilized OpenCV with Django to create lightweight web versions of images, improving resource load times.
+
+### Automation Project
+- Collaborated on a project that leveraged IoT devices and C++ for simulation and programming.
+
+### Mail System Deployment
+- Deployed mail systems for personal projects on Linode cloud servers and configured Nextcloud servers for efficient data management.
+
+## Professional Development
+- Certified **HCIA** professional
+- Actively seeking mentorship and networking opportunities to foster growth and knowledge sharing.
+
+## Get in Touch
+Feel free to connect with me on LinkedIn or reach out through my email for collaboration or inquiries!
+
+---
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
+---
