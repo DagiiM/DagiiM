@@ -35,15 +35,5 @@ I am an Electrical and Electronics Engineer with a passion for integrating hardw
 
 ## Get in Touch
 Feel free to connect with me on LinkedIn or reach out through my email for collaboration or inquiries!
-
----
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
----
+- douglasmutethia2017@gmail.com
+- https://www.linkedin.com/in/douglas-mutethia
